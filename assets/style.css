@@ -1,3 +1,8 @@
+.background-plans {
+    width: 100%;
+    background: url(../assets/background.jpg) no-repeat center center;
+}
+
 .plans {
     display: flex;
     align-items: center;
